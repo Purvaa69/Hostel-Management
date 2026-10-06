@@ -1,12 +1,42 @@
-# React + Vite
+# 🏠 Hostel Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **web-based Hostel Management System** developed as a **Second Year Engineering Project**.
 
-Currently, two official plugins are available:
+The project was created to provide a simple platform where students can **search for hostels/PGs and view available rooms**, while hostel or property owners can **list and manage their properties**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Project Overview
 
-## Expanding the ESLint configuration
+The main aim of this project was to understand how a full-stack web application works, including frontend development, backend APIs, database management, and user interaction.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 👨‍🎓 Student Side
+- Search and view available hostels/PGs
+- View room and property details
+- Manage booking-related information
+
+### 🏢 Owner Side
+- Add and manage hostel/PG listings
+- Manage room information
+- View student booking details
+
+## 🛠️ Technologies Used
+
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, VS Code
+
+## 🎯 Purpose
+
+This project was developed as part of my **Second Year Engineering Project** to gain practical experience in:
+
+- Full-stack web development
+- React frontend development
+- REST API development
+- Database integration
+- Git and GitHub
+- Understanding client-server architecture
+
+## 📂 Project Status
+
+This was an academic project developed during my **second year**. It helped me build my fundamentals in web development and provided a foundation for working on more advanced projects later.
+
